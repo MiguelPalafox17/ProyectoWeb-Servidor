@@ -38,6 +38,8 @@ En el componente se definen múltiples estados para poder manejar todos los camp
 
 Estas validaciones se aplican antes de enviar los datos al servidor. Si ocurren errores, estos muestran mensajes debajo de cada campo.
 
+![evidencia](./Evidencias/ValidacionRegistro.png)
+
 ---
 
 ## Envío del Formulario
@@ -53,6 +55,8 @@ const handleSubmit = async (e) => {
 - Si todo es válido, construye un JSON en  `userData` y lo envía a la API:  
   `POST http://localhost:3000/registrar_Empleado`
 - Maneja los mensajes de exitoso o errores desde el servidor.
+
+![evidencia](./Evidencias/IngresarDatos.png)
 
 ---
 

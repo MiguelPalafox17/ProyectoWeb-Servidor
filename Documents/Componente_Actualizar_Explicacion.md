@@ -38,6 +38,8 @@ Funciones que se encargadasn de validar los campos antes de enviar los datos del
 - `validateEmail(input)`: Valida el formato del correo electrónico.
 - `validationTelefono()`: Verifica que el teléfono no esté vacío.
 
+![imagen](./Evidencias/ErroresActualizar.png)
+
 ---
 
 ## useEffect
@@ -79,3 +81,5 @@ Muestra un formulario con campos para:
 - Tipo de Empleado (select)
 
 También incluye un botón `Actualizar` y muestra mensajes de éxito o error.
+
+![Imagen](./Evidencias/Actualizar.png)

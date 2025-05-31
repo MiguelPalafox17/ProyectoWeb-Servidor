@@ -45,6 +45,9 @@ Función `handleEliminar`:
 - Si es exitosa, elimina al empleado y se actualiza la tabla sin recargar la página.
 - Muestra alertas segun el resultado.
 
+![Imagen](./Evidencias/EliminarConfirmar.png)
+![Imagen](./Evidencias/RegistroEliminado.png)
+
 ---
 
 ## Renderizado de Tabla
@@ -66,5 +69,6 @@ Se muestra una tabla con las columnas:
   </tr> 
 ))}
 ```
+![Imagen](./Evidencias/ConsultarEmpleados.png)
 
 Si no hay registrose en la BD, muestra una fila que indica: **"No hay empleados."**
