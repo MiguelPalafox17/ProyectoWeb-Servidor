@@ -1,0 +1,36 @@
+.tabla-empleados {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tabla-empleados thead {
+  background-color: #007bff;
+  color: rgb(0, 0, 0);
+}
+
+.tabla-empleados th,
+.tabla-empleados td {
+  padding: 10px 12px;
+  color: white;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+.tabla-empleados tbody tr:hover {
+  background-color: #92b2e9;
+}
+
+.tabla-empleados button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.tabla-empleados button:hover {
+  background-color: #c82333;
+}
