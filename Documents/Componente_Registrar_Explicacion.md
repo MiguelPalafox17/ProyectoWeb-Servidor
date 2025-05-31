@@ -1,4 +1,3 @@
-
 # `Registrar.jsx`
 
 Este componente representa el **formulario de registro de empleados** en una aplicación React. Incluye múltiples campos con validaciones, manejo de errores y conexión a un backend para almacenar los datos del empleado.
@@ -87,4 +86,3 @@ El formulario muestra campos para:
 - Tipo de Empleado (con menú desplegable)
 
 Además, muestra mensajes de error/success debajo de cada campo y al final del formulario.
-

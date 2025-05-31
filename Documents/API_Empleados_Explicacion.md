@@ -1,4 +1,3 @@
-
 # API REST para Gestion de Empleados
 Este proyecto implementa una API que utiliza **Express** y **Sequelize** para gestionar  a los empleados.
 

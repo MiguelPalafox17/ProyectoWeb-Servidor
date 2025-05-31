@@ -1,4 +1,3 @@
-
 # Componente `Consulta.jsx`
 
 Este componente muestra la tabla con los datos de los empleados registrados. Permite visualizar y eliminar los registros directamente desde la tabla.

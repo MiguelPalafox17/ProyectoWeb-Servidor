@@ -1,4 +1,3 @@
-
 # Modelo Sequelize: Empleados
 Este archivo define el modelo `Empleados` utilizando Sequelize para interactuar con la BD.
 

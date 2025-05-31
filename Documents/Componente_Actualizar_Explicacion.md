@@ -1,4 +1,3 @@
-
 # Componente `Actualizar`
 
 Este componente permite la **actualización de información de un empleado existente** en la BD.
