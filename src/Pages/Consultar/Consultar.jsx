@@ -5,7 +5,7 @@ function Consulta() {
   const [filas, setFilas] = useState([]);
 
   // Cambia esta URL por la de tu API real
-  const API_URL = 'http://localhost:3000/sueldos';
+  const API_URL = 'http://localhost:3000/obtener_Empleados';
 
   // Cargar los datos al montar el componente
   useEffect(() => {

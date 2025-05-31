@@ -174,7 +174,6 @@ if (!isEmailValid || !isNombreValid || !isTelefonoValid || !isTipoValid) {
                                 <div class="form_group">
                                     <label className='sub_title' for="sub_title">Tipo de empleado:</label>
                                     <select value={tipoEmpleado} onChange={(e) => setTipoEmpleado(e.target.value)} className="form_style" id="tipoEmpleado" name="tipoEmpleado">
-                                        <option className="options_style" value="" disabled>Seleccionar Puesto</option>
                                         <option className="options_style" value="auxiliar">Auxiliar</option>
                                         <option className="options_style" value="base">Base</option>
                                         <option className="options_style" value="practicante">Practicante</option>
